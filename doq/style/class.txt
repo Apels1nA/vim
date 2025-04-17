@@ -1,0 +1,7 @@
+"""
+Класс {{ class.name }} описывает {{ class.description }}.
+
+{{ class.name }}({{ class.args }})
+
+{{ class.method_info }}
+"""

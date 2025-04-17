@@ -1,0 +1,4 @@
+"""
+{{ function.name }} описывает функцию {{ function.description }}
+:return: Описание
+"""
